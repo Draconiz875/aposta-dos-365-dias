@@ -1,9 +1,9 @@
 const START_DATE = new Date(
-    "2026-10-05T00:00:00-03:00"
+    "2026-09-29T22:29:00-03:00"
 );
 
 const END_DATE = new Date(
-    "2027-10-05T00:00:00-03:00"
+    "2027-09-29T22:29:00-03:00"
 );
 
 
@@ -93,7 +93,7 @@ function updateCounter() {
             "DESAFIO CONCLUÍDO";
 
         footerMessage.textContent =
-            "Vocês conseguiram. ❤️🎉";
+            "VOCÊS CONSEGUIRAM! ❤️🎉";
 
         return;
     }
